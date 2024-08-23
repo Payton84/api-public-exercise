@@ -1,0 +1,7 @@
+testsApiPublic/GetWithUrlParams.class
+testsApiPublic/CreateObject.class
+testsApiPublic/UpdatePartiallyObject.class
+testsApiPublic/UpdateObject.class
+testsApiPublic/GetObjects.class
+testsApiPublic/GetSingleObject.class
+testsApiPublic/DeleteObject.class
